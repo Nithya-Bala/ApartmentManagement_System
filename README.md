@@ -7,13 +7,13 @@ It provides a clean, user-friendly interface to manage residential information a
 ---
 
 ## ✨ Features
-- **🏠 Residential Information Viewer** – View details of all blocks and flats.
-- **📋 Flat Management Portal** – Add, update, and delete flat details.
-- **💰 Maintenance Status Tracker** – Track payment status and due amounts.
-- **📢 Defaulter List** – Automatically generate unpaid maintenance defaulters.
-- **📦 Reset Maintenance** – Reset monthly dues with penalties.
-- **🚪 Unoccupied Houses** – Identify and list vacant flats.
-- **🛠 Complaint & Announcement Pages** – Manage resident feedback and notifications.
+- **Residential Information Viewer** – View details of all blocks and flats.
+- **Flat Management Portal** – Add, update, and delete flat details.
+- **Maintenance Status Tracker** – Track payment status and due amounts.
+- **Defaulter List** – Automatically generate unpaid maintenance defaulters.
+- **Reset Maintenance** – Reset monthly dues with penalties.
+- **Unoccupied Houses** – Identify and list vacant flats.
+- **Complaint & Announcement Pages** – Manage resident feedback and notifications.
 
 ---
 
@@ -34,3 +34,4 @@ python apartment.py
 ## Access the application
 http://127.0.0.1:5000
 
+---
